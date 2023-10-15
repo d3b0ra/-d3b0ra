@@ -1,9 +1,10 @@
 ### Olá! eu sou Débora Castro✌️
 
-[![blog](https://img.shields.io/website?label=sujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](=https://sujeitoprogramador.com/)
+
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-thebadge&logo=instagram&logoColor=white)](https://www.instagram.com/decastrous/) 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](=https://www.facebook.com/profile.php?id=100033140179063)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](=https://www.linkedin.com/in/d%C3%A9bora-castro-b5263656)
+[![blog](https://img.shields.io/website?label=sujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](=https://sujeitoprogramador.com/)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
